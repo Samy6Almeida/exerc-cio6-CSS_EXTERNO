@@ -1,3 +1,9 @@
-h1.impact {
-  font-family: Impact, Charcoal, sans-serif;
+p{
+	font-size: 12px;
+}
+h1{
+	font-size: 20px;
+}
+.sansserif {
+  font-family: Verdana, sans-serif;
 }
